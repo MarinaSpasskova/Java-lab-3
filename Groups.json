@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "groupid": "g1",
+      "groupname": "МС-03"
+    },
+    {
+      "groupid": "g2",
+      "groupname": 149
+    },
+    {
+      "groupid": "g3",
+      "groupname": "МС-09"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: C:\Users\Алексий\IdeaProjects\lab3\
+Main-Class: Main
+
