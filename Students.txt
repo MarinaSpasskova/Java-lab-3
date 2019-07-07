@@ -1,0 +1,1 @@
+[{"mId":83,"mName":"Ефимова Лариса Ефимовна ","mMarksList":[{"mMark":3},{"mMark":2},{"mMark":3}]},{"mId":46,"mName":"Демьянченко Лада Валентиновна ","mMarksList":[{"mMark":0},{"mMark":2}]}]
