@@ -1,0 +1,264 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "fio": "Спиридонова А.С.",
+      "group": "Elementary"
+    },
+    {
+      "id": 2,
+      "fio": "Петелин Д.С.",
+      "group": "Elementary"
+    },
+    {
+      "id": 3,
+      "fio": "Алексеева В.А.",
+      "group": "Elementary"
+    },
+    {
+      "id": 4,
+      "fio": "Медов С.Ю.",
+      "group": "Elementary"
+    },
+    {
+      "id": 5,
+      "fio": "Пивовар А.А.",
+      "group": "Elementary"
+    },
+    {
+      "id": 6,
+      "fio": "Петров А.И.",
+      "group": "Elementary"
+    },
+    {
+      "id": 7,
+      "fio": "Монахов А.А.",
+      "group": "Elementary"
+    },
+    {
+      "id": 8,
+      "fio": "Сворцов С.С.",
+      "group": "Elementary"
+    },
+    {
+      "id": 9,
+      "fio": "Садиков А.В.",
+      "group": "Elementary"
+    },
+    {
+      "id": 10,
+      "fio": "Клюшников В.А.",
+      "group": "Elementary"
+    },
+    {
+      "id": 11,
+      "fio": "Доценко К.А.",
+      "group": "Elementary"
+    },
+    {
+      "id": 12,
+      "fio": "Володин С.В.",
+      "group": "Elementary"
+    },
+    {
+      "id": 13,
+      "fio": "Минеев Д.М.",
+      "group": "Elementary"
+    },
+    {
+      "id": 14,
+      "fio": "Винокурова В.О.",
+      "group": "Elementary"
+    },
+    {
+      "id": 15,
+      "fio": "Мартынов Д.Ю.",
+      "group": "Elementary"
+    },
+    {
+      "id": 16,
+      "fio": "Марданова М.В.",
+      "group": "Elementary"
+    },
+    {
+      "id": 17,
+      "fio": "Калинкина В.В.",
+      "group": "Elementary"
+    },
+    {
+      "id": 18,
+      "fio": "Капралов А.П.",
+      "group": "Elementary"
+    },
+    {
+      "id": 19,
+      "fio": "Сысыкин А.А.",
+      "group": "Elementary"
+    },
+    {
+      "id": 20,
+      "fio": "Шапченко И.И.",
+      "group": "Beginner"
+    },
+    {
+      "id": 21,
+      "fio": "Эдисон А.А.",
+      "group": "Beginner"
+    },
+    {
+      "id": 22,
+      "fio": "Титов Д.Ю.",
+      "group": "Beginner"
+    },
+    {
+      "id": 23,
+      "fio": "Бузынин Н.П.",
+      "group": "Beginner"
+    },
+    {
+      "id": 24,
+      "fio": "Колесников Р.В.",
+      "group": "Beginner"
+    },
+    {
+      "id": 25,
+      "fio": "Лигачева А.М.",
+      "group": "Beginner"
+    },
+    {
+      "id": 26,
+      "fio": "Ганджа Д.С.",
+      "group": "Beginner"
+    },
+    {
+      "id": 27,
+      "fio": "Шалагин Н.А.",
+      "group": "Beginner"
+    },
+    {
+      "id": 28,
+      "fio": "Солкин Е.И.",
+      "group": "Beginner"
+    },
+    {
+      "id": 29,
+      "fio": "Абрамов С.Н.",
+      "group": "Beginner"
+    },
+    {
+      "id": 30,
+      "fio": "Коннов Д.В.",
+      "group": "Beginner"
+    },
+    {
+      "id": 31,
+      "fio": "Лазарев П.Н.",
+      "group": "Beginner"
+    },
+    {
+      "id": 32,
+      "fio": "Усоян Ш.М.",
+      "group": "Beginner"
+    },
+    {
+      "id": 33,
+      "fio": "Баженов Г.Г.",
+      "group": "Beginner"
+    },
+    {
+      "id": 34,
+      "fio": "Павлов А.Д.",
+      "group": "Beginner"
+    },
+    {
+      "id": 35,
+      "fio": "Рождественская С.А.",
+      "group": "Beginner"
+    },
+    {
+      "id": 36,
+      "fio": "Колганова О.А.",
+      "group": "Beginner"
+    },
+    {
+      "id": 37,
+      "fio": "Березина М.С.",
+      "group": "Beginner"
+    },
+    {
+      "id": 38,
+      "fio": "Дурнев Д.Р.",
+      "group": "Beginner"
+    },
+    {
+      "id": 39,
+      "fio": "Кузнецов И.Н.",
+      "group": "Beginner"
+    },
+    {
+      "id": 40,
+      "fio": "Рябикин П.П.",
+      "group": "Beginner"
+    },
+    {
+      "id": 41,
+      "fio": "Селихов В.Р.",
+      "group": "Beginner"
+    },
+    {
+      "id": 42,
+      "fio": "Соколкин А.П.",
+      "group": "Beginner"
+    },
+    {
+      "id": 43,
+      "fio": "Кульметьев А.Ю.",
+      "group": "Beginner"
+    },
+    {
+      "id": 44,
+      "fio": "Лисятников А.Л.",
+      "group": "Beginner"
+    },
+    {
+      "id": 45,
+      "fio": "Галецкий К.С.",
+      "group": "Beginner"
+    },
+    {
+      "id": 46,
+      "fio": "Осипов Л.Н.",
+      "group": "Beginner"
+    },
+    {
+      "id": 47,
+      "fio": "Плехов А.С.",
+      "group": "Intermediate"
+    },
+    {
+      "id": 48,
+      "fio": "Шувалова А.И.",
+      "group": "Intermediate"
+    },
+    {
+      "id": 49,
+      "fio": "Щербина Б.В.",
+      "group": "Intermediate"
+    },
+    {
+      "id": 50,
+      "fio": "Мортин С.А.",
+      "group": "Intermediate"
+    },
+    {
+      "id": 51,
+      "fio": "Потапова Т.А.",
+      "group": "Intermediate"
+    },
+    {
+      "id": 52,
+      "fio": "Бадугин Д.А.",
+      "group": "Intermediate"
+    }
+  ]
+}
